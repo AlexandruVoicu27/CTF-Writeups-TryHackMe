@@ -35,4 +35,5 @@ Opened it and found the flag.
 
 <img width="1024" height="554" alt="image" src="https://github.com/user-attachments/assets/64c2ac5d-17c7-4473-911f-19617f84e82a" />
 
+
 **Final Flag:** `THM{v1be_c0ding_1s_n0t_my_cup_0f_t3a}`
