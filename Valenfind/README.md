@@ -1,7 +1,7 @@
 **DESCRIPTION**
 
 
-There’s this new dating app called “Valenfind” that just popped up out of nowhere. I hear the creator only learned to code this year; surely this must be vibe-coded. Can you exploit it?  You can access it here: http://10.113.187.116:5000
+There’s this new dating app called “Valenfind” that just popped up out of nowhere. I hear the creator only learned to code this year; surely this must be vibe-coded. Can you exploit it?  You can access it here: [http://MACHINE_IP:5000]
 
 **HOW TO SOLVE?**
 
