@@ -12,12 +12,12 @@ Mapped it so I can open it.
 Brute forced the username and the password with Zaproxy and found jose: password123
 <img width="2561" height="1263" alt="image" src="https://github.com/user-attachments/assets/6ad9a110-eedd-44ad-abdd-84ad424559cb" />
 
-In the Credentials files found an username and a password that I tried using ssh but didnt work, but I found the vulnerabilites for the specific version that it works on.
+In the Credentials files found an username and a password that I tried using ssh but didnt work, but I found the vulnerabilites on elfinder for the specific version that it works on.
 <img width="2484" height="1309" alt="image" src="https://github.com/user-attachments/assets/6399f16c-a592-4aa4-906e-1edfb329cca1" />
 
 <img width="788" height="300" alt="image" src="https://github.com/user-attachments/assets/926853df-354f-47a8-ab72-60f36277de6b" />
 
-Used elfinder
+Used msfconsole to search for the vulnerabilites.
 <img width="1929" height="210" alt="image" src="https://github.com/user-attachments/assets/e15c3a60-bd6a-4c4c-a230-8d535993e1f0" />
 
 I performed a PATH hijacking attack by creating a malicious id script in the writable /dev/shm directory and prepending that directory to my PATH environment variable, which tricked the /usr/sbin/pwm binary into executing my script and dumping the contents of the restricted passwords file.
